@@ -1,0 +1,7 @@
+参考博客		https://y4er.com/post/slack-golang-c2/
+
+登录		https://slack.com/signin#/signin
+创建机器人	https://api.slack.com/
+添加机器人	/invite @
+
+测试		https://api.slack.com/methods/conversations.history/test	
